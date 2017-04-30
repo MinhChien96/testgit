@@ -16,5 +16,10 @@ namespace QuanLyThuVien
         {
             InitializeComponent();
         }
+
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            //ghhkjkjlkjkj
+        }
     }
 }
